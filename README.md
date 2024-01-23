@@ -1,4 +1,4 @@
-No fancy introductions here
+No fancy introductions here.
 
 <!--
 **qwerzl/qwerzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
